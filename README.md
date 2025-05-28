@@ -3,7 +3,9 @@ The Hospital Management System GUI is a simple Java-based desktop application de
 ________________________________________
 🔐 Login Screen
 •	The application starts with a password-protected login.
+
 •	Only users who enter the correct password (24070103) can access the system.
+
 •	This adds a layer of basic authentication to protect sensitive operations.
 ________________________________________
 
