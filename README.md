@@ -2,6 +2,7 @@
 The Hospital Management System GUI is a simple Java-based desktop application developed using Swing, designed to simulate basic hospital administrative functionalities. It provides an interactive graphical interface for staff to manage patient records, process payments, and schedule doctor appointments.
 ________________________________________
 🔐 Login Screen
+
 •	The application starts with a password-protected login.
 
 •	Only users who enter the correct password (24070103) can access the system.
@@ -10,32 +11,45 @@ ________________________________________
 ________________________________________
 
 🧑⚕️ Patient Management
+
 Accessible from the Main Menu, this module allows users to:
+
 •	Add Patient
 Enter patient details like ID, name, age, and disease.
+
 •	View Patients
 Display a scrollable list of all patient records currently stored.
+
 •	Search Patient
 Search for a patient by ID and view their full details.
+
 •	Delete Patient
 Remove a patient's record from the system using their ID.
+
 🔸 All patient data is stored in memory using an ArrayList of HospitalPatient objects (no database used).
 ________________________________________
 
 💳 Payment System
+
 •	Simulates a basic payment process via two mobile financial services:
+
 o	bKash
 o	Nagad
+
 •	Users input the amount and choose the payment method.
+
 •	A confirmation message displays upon a successful transaction (simulation only, no real payment processing).
 ________________________________________
 
 🩺 Doctor Appointment
+
 •	Users can book appointments by providing:
 o	Name
 o	Preferred doctor's name
 o	Date (format: dd-mm-yyyy)
+
 •	Appointment details are stored in a file named appointments.txt.
+
 •	Confirmation is shown on successful booking.
 ________________________________________
 
@@ -45,21 +59,31 @@ ________________________________________
 ________________________________________
 
 👨💻 Technologies Used
+
 •	Java
+
 •	Swing (javax.swing) – for GUI components
+
 •	FileWriter – for saving appointment data to a file
+
 •	ArrayList – for storing in-memory patient records
 ________________________________________
 
 🚀 How to Run
+
 1.	Compile all .java files:
+
 2.	javac *.java
+
 3.	Run the application:
+
 4.	java HospitalManagementSystemGUI
 ________________________________________
 
 📌 Notes
+
 •	This is a prototype application. Data is stored only in memory during runtime (except for appointments).
+
 •	Demonstrates Object-Oriented Programming, Java Swing GUI, and basic file handling.
 
                                                                                          
