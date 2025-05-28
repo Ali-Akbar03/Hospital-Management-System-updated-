@@ -76,8 +76,7 @@ Fig 8- Doctor appointment
 
 
 S.M. ALI AKBAR KHALED 
-CSE student at UNIVARSITY OF SCIENCE AND TECHNOLOGY CHITTAGONG 
-![WhatsApp Image 2025-05-22 at 08 48 29_576f648c](https://github.com/user-attachments/assets/2ccd5d36-0998-4e68-84ca-5ce2c6fc7581)
+
 
 
 
