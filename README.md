@@ -58,14 +58,21 @@ ________________________________________
 
 ![image](https://github.com/user-attachments/assets/3afc2a16-6ccb-4258-984a-14cceade0c79)
 Fig 4- log in page 
+
 ![image](https://github.com/user-attachments/assets/64686cef-a715-4c0a-9ca6-ddf817978c5d)
 Fig 5– Main home page 
+
 ![image](https://github.com/user-attachments/assets/8da7d137-e373-4ec8-a617-befe61d68715)
 Fig 6- Patient management system 
+
 ![image](https://github.com/user-attachments/assets/868f1cdd-3b5f-4e76-a22b-11785fb40e4e)
 Fig 7– Payment method
+
 ![image](https://github.com/user-attachments/assets/123533aa-c993-4787-ba1a-69254bea83c3)
 Fig 8- Doctor appointment 
+
+
+
 
 
 S.M. ALI AKBAR KHALED 
